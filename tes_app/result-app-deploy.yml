@@ -20,6 +20,6 @@ spec:
     spec:
       containers:
       - name: result-app
-        image: yaksh0212/order_processing
+        image: yaksh0212/product_catalog
         ports:
         - containerPort: 80
